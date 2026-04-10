@@ -1,0 +1,10 @@
+# Obsidian 个人工作区配置
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-desktop.json
+
+# 本地 AI 助手配置
+.claude/
+
+# MacOS 系统文件
+.DS_Store
