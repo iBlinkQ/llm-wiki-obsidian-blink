@@ -115,6 +115,15 @@
    - 将 Schema 内容提供给你的 AI Agent（Claude Code、OpenClaw、Trae 等）
 
 5. **开始使用**
+
+<a href="https://www.bilibili.com/video/BV1mgQPBXEZp/">
+  <img src="https://github.com/user-attachments/assets/f30b7441-310c-400f-b930-2aa081931756" alt="▶️ 查看视频演示" width="400">
+</a>
+
+👆 查看视频演示
+
+
+
    ```
    # 导入新资料
    "请基于 raw/xxx.pdf 进行 Ingest"
@@ -125,6 +134,8 @@
    # 健康检查
    "请对 wiki 做一次 Lint"
    ```
+
+   更多可见视频演示：
 
 ## 📖 页面类型说明
 
@@ -159,5 +170,5 @@ MIT License
 ---
 
 **相关链接**
-- 原文：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+- Karpathy 原文：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 - Obsidian：https://obsidian.md
